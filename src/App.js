@@ -1,7 +1,6 @@
 import React from 'react';
 
-import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
-
+import { BrowserRouter as Router, Route, Routes, Navigate } from react-router-dom;
 import Login from './src/Login';
 import Dashboard from './src/Dashboard';
 import MapView from './src/MapView';
